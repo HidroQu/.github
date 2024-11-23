@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo-circle.svg">
+</p>
+
 ### Project Name
 
 HidroQu is a Smart Hydroponic Solution for Monitoring Crop Health via Leaf Imaging. Efficient plant health monitoring is critical in hydroponic cultivation, where early detection of nutrient deficiencies can prevent productivity loss. Our application, HidroQu, leverages advanced image analysis to identify deficiencies in key nutrients like nitrogen, potassium, and phosphorus based on leaf characteristics, offering actionable recommendations tailored to each issue.
